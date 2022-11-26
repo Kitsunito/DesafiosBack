@@ -1,0 +1,1 @@
+{"maxID":4,"data":[{"title":"Rodillo","price":200,"thumbnail":"./img/rodillo.png","id":3},{"title":"Rodillo","price":200,"thumbnail":"./img/rodillo.png","id":4}]}
