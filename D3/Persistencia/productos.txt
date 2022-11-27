@@ -1,0 +1,1 @@
+{"maxID":3,"data":[{"title":"Martillo","price":"300","thumbnail":"../img/martillo.jpg","id":1},{"title":"Serrucho","price":"500","thumbnail":"../img/serrucho.jpg","id":2},{"title":"clavos","price":"50","thumbnail":"../img/clavos.jpg","id":3}]}

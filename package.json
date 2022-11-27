@@ -4,9 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node ./D2/index.js"
+    "test": "nodemon ./D3/server.js",
+    "start": "node ./D3/server.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
 }
