@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon ./D3/server.js",
-    "start": "node ./D3/server.js"
+    "test": "nodemon ./D4/server.js",
+    "start": "node ./D4/server.js"
   },
   "keywords": [],
   "author": "",

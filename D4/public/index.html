@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desafío 4</title>
+</head>
+<body>
+  <main>
+    <section>
+      <h1>Ferretería Fórmula 1</h1>
+      <form action="/api/productos" method="post">
+        <div>
+          <h2>Formulario de alta de productos</h2>
+          <div>
+            <label for="title">Nombre</label>
+            <input type="text" name="title" id="title" required>
+          </div>
+          <div>
+            <label for="pice">Precio</label>
+            <input type="text" name="price" id="price" required>
+          </div>
+          <div>
+            <label for="thumbnail">Foto</label>
+            <input type="text" name="thumbnail" id="thumbnail">
+          </div>
+          <input type="submit" value="Enviar">
+        </div>
+      </form>
+    </section>
+  </main>
+</body>
+</html>
