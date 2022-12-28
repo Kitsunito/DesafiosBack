@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon ./D5/ejs/server.js",
-    "start": "node ./D5/ejs/server.js"
+    "test": "nodemon ./D6/server.js",
+    "start": "node ./D6/server.js"
   },
   "keywords": [],
   "author": "",
@@ -13,8 +13,10 @@
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
     "handlebars": "^4.7.7",
     "nodemon": "^2.0.20",
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "socket.io": "^4.5.4"
   }
 }
